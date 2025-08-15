@@ -47,6 +47,8 @@ Our system captures these differences through:
 3. **Gait Phase Detection**: Identifying heel strike, full contact, toe-off, and swing phases
 4. **Temporal Analysis**: Step timing, stance time, and swing time measurements
 
+<img src="image4.png" width="600" height="400" />
+<img src="image5.png" width="600" height="400" />
 ### The ML Pipeline
 
 ```
