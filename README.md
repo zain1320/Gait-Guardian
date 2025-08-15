@@ -2,7 +2,7 @@
 
 A wearable sensor system that analyzes walking patterns in real-time to detect early signs of neurological disorders like Parkinson's, diabetic neuropathy, multiple sclerosis, and cerebral palsy.
 
-<img src="image1.png" width="600" height="400" />
+<img src="image1.png" width="600" height="600" />
 
 ## What We Built
 
