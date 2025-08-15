@@ -2,7 +2,7 @@
 
 A wearable sensor system that analyzes walking patterns in real-time to detect early signs of neurological disorders like Parkinson's, diabetic neuropathy, multiple sclerosis, and cerebral palsy.
 
-![The actual hardware setup we built](image1)
+<img src="image1.png" width="600" height="400" />
 
 ## What We Built
 
@@ -24,8 +24,8 @@ This project combines hardware sensing with machine learning to create a compreh
 
 ## The Dashboard in Action
 
-![Live dashboard showing real-time gait analysis](image2)
-![Dashboard interface showing prediction results and device status](image3)
+<img src="image2.png" width="600" height="400" />
+<img src="image3.png" width="600" height="400" />
 
 The web interface shows everything happening in real-time - connected devices, current predictions with confidence levels, and classification probabilities for each neurological condition. You can see the system continuously analyzing gait patterns and updating predictions as new sensor data streams in from the Arduino. The dashboard provides a comprehensive view of device connectivity status, current gait classification, confidence levels, and probability distributions across different neurological conditions.
 
@@ -190,6 +190,8 @@ Feel free to reach out or submit issues/PRs.
 This project taught us that building real-world ML systems is 10% algorithms and 90% dealing with messy data, hardware quirks, and user needs. It's been frustrating, exciting, and incredibly educational.
 
 Special thanks to the open-source community for the libraries that made this possible, and to everyone who helped test our prototype (and put up with us strapping sensors to their feet).
+
+---
 
 *"The best way to predict the future is to build it... even if it involves a lot of debugging Arduino WiFi code."* 😅
 
